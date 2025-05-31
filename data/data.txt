@@ -1,0 +1,4 @@
+redis-16691.c264.ap-south-1-1.ec2.redns.redis-cloud.com:16691
+account api key: Am1lma18dvowv3umnzcvrw66tzq2kkbpfyvvwt4i0z291zfg5e
+
+redis-cli -u redis://default:tno1zaei7Sq5rhQicPR8N4nDmwGTFzaA@redis-16691.c264.ap-south-1-1.ec2.redns.redis-cloud.com:16691
